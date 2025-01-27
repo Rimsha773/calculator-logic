@@ -5,9 +5,22 @@
 
 .profile-navbar{
     width: 100%;
-    height: 100px;
+    height: 70vh;
+    background-color: aqua;
 }
 
-.navbar-photo{
-    background-image: url();
+.navbar-image{
+    width: 100%;
+    height: 80vh;
+    background-image: url("portfolio\ photo.png");
+    background-size: cover;
+}
+
+.portfolio-image{
+    width: 200px;
+    height:200px;
+    background-color: blue;
+    border-radius: 50%;
+    background-image: url("profile\ image2.png");
+    background-size: cover;
 }
