@@ -82,12 +82,12 @@
    /** SKILLS SECTION **/
 
  .skill{
-      display: inline;
-      padding-top: 5vh;
+      padding-top: 2vh;
+      
  }
 
  .skill h1{
-    background-color: rgba(250, 235, 215, 0.356);
+    background-color: #207e9669;
     font-size: 5rem;
     display:flex;
     align-items: center;
@@ -99,3 +99,46 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     font-weight: 500;
  }
+
+  .skills{
+    padding-top: 2vh;
+    background-color: rgba(165, 42, 42, 0.37);
+    height: 50vh;
+  }
+  
+    .skills h1{
+    font-size: 5rem;
+    background-color: rgba(226, 43, 67, 0.397);
+    font-family: (Cambria, Cochin, Georgia, Times, 'Times New Roman', serif) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .skills h4{
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+ }
+
+.javascript{
+    background-color: rgba(218, 200, 47, 0.747);
+    padding-top: 2vh;
+    height: 50vh;
+}
+
+.javascript h1{
+    font-size: 5rem;
+    background-color: rgba(218, 201, 47, 0.911);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.javascript h4{
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+
+}
+ 
